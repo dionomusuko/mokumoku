@@ -23,4 +23,8 @@ export default {
 }
 </script>
 
-<style></style>
+<style>
+main {
+  margin-top: 1%;
+}
+</style>
