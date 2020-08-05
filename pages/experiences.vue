@@ -6,8 +6,8 @@
 
 <script>
 export default {
-  name: "experiences"
-};
+  name: 'experiences'
+}
 </script>
 
 <style scoped></style>
