@@ -8,10 +8,10 @@
 </template>
 
 <script>
-import About from "@/pages/about";
-import Experiences from "@/pages/experiences";
-import Skills from "@/pages/skills";
-import Blogs from "@/pages/blogs";
+import About from '@/pages/about'
+import Experiences from '@/pages/experiences'
+import Skills from '@/pages/skills'
+import Blogs from '@/pages/blogs'
 
 export default {
   components: {
@@ -20,7 +20,7 @@ export default {
     Skills,
     Blogs
   }
-};
+}
 </script>
 
 <style></style>
