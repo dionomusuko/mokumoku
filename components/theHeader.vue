@@ -9,11 +9,11 @@
         <v-icon>mdi-home</v-icon>
       </v-btn>
 
-      <v-btn icon>
+      <v-btn icon href="github_url">
         <v-icon>mdi-github</v-icon>
       </v-btn>
 
-      <v-btn icon>
+      <v-btn icon href="twitter_url">
         <v-icon>mdi-twitter</v-icon>
       </v-btn>
     </v-toolbar>
@@ -22,7 +22,10 @@
 
 <script>
 export default {
-  name: 'theHeader'
+  name: 'theHeader',
+  //自分のアカウントに変える
+  github_url: 'https://twitter.com',
+  twitter_url: 'https://github.com'
 }
 </script>
 
